@@ -1,5 +1,5 @@
 # ✨ Hello, world! ✨
-Welcome to my profile page, I hope you don't mind the mess!
+Welcome to my profile page, make yourself at home!
 
 [![Swampert](https://archives.bulbagarden.net/media/upload/9/93/Spr_5b_260.png)](https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pok%C3%A9mon))
 [![Furret](https://archives.bulbagarden.net/media/upload/4/43/Spr_5b_162.png)](https://bulbapedia.bulbagarden.net/wiki/Furret_(Pok%C3%A9mon))
