@@ -16,14 +16,14 @@ I'm an IT student who's currently learning databases and Java.
 I spend my free time geeking out about Linux and learning C/C++,
 you can tell it by the software I write!
 
-My favorite languages:
+My favorite languages are:
   
-|Rank|Language |
-|---:|:--------|
-|1   |C 💻     |
-|2   |Java ☕  |
-|3   |Bash 🐚  |
-|4   |Python 🐍|
+  1. C 💻
+  2. Java ☕
+  3. Bash 🐚
+  4. Python 🐍
+
+I'm always ready for new challenges and ideas. If you need any help, feel free to ask me anything. I'll try my best to help you!
 
 ## Check out my repos! 💾
 These are the ones I'm most proud of:
