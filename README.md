@@ -30,7 +30,7 @@ These are the ones I'm most proud of:
 
 - [dotfiles](https://github.com/Kel-05/dotfiles) - My rice!
 - [CudaSHA256](https://github.com/Kel-05/CudaSHA256) - A little program I made for [SHAllenge](https://shallenge.quirino.net/)
-- [clock](https://github.com/Kel-05/clock) - A TUI clock made in C, you can consider it my "coding playground" 
+- [nclock](https://github.com/Kel-05/nclock) - A TUI clock made in C, you can consider it my "coding playground" 
 
 ## Contacts ✉️
 
