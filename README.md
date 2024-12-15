@@ -18,10 +18,11 @@ you can tell it by the software I write!
 
 My favorite languages are:
   
-  1. C/C++ 💻
-  3. Java ☕
-  4. Bash 🐚
-  5. Python 🐍
+  1. 💻 C/C++ 
+  2. 🦀 Rust
+  3. 🌐 JS
+  4. ☕ Java
+  5. 🐚 Bash
 
 I'm always ready for new challenges and ideas. If you need any help, feel free to ask me anything. I'll try my best to help you!
 
